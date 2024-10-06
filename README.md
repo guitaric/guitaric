@@ -1,7 +1,16 @@
 - 👋 Hi, I’m @guitaric
-- 👀 I’m interested in Web Dev / Visualization / Music(-theory) / Creative Coding
+- 👀 I’m interested in Web Dev / (Data)-Visualization / Music(-theory) / Creative Coding
 - 🌱 I have 3+ years experience in Fullstack Development focusing on Frontend.
-- I mainly worked with HTML5, CSS3, JavaScript, PHP, Codeigniter, MySQL
+- Frontend:
+- HTML5 / CSS3 / JavaScript / JQuery / React / D3 / P3 / A11y / Reponsiveness
+
+- Backend:
+- PHP / Codeigniter / Node 
+
+- Other:
+- Git / Github / Terminal / Figma 
+
+Creativity ~ Interdisplinarity ~ Innovation
 
 <!---
 guitaric/guitaric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
